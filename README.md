@@ -31,3 +31,4 @@ Cada pasta contém um arquivo `.java` com o exercício do dia.
 | 02   | Entrada e saída de dados            | [`dia02`](./dia02)        |
 | 03   | Múltiplas entrada e saída de dados  | [`dia03`](./dia03)        |
 | 04   | Verificador de Números              | [`dia04`](./dia04)        |
+| 05   | Operadores Lógicos                  | [`dia05`](./dia05)        |
