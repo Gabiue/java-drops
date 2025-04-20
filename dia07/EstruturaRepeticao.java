@@ -12,6 +12,7 @@ import java.util.Scanner;
 
 public class EstruturaRepeticao{
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
 
         int inputN;
@@ -24,7 +25,8 @@ public class EstruturaRepeticao{
         inputN = scanner.nextInt();
 
         if(inputN==0){
-            System.out.printf("O fatorial %d! tem valor de 1 \n", inputN); 
+            System.out.printf("O fatorial %d! tem valor de 1 \n", inputN);
+ 
         }
         else
 
