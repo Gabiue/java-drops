@@ -32,3 +32,5 @@ Cada pasta contém um arquivo `.java` com o exercício do dia.
 | 03   | Múltiplas entrada e saída de dados  | [`dia03`](./dia03)        |
 | 04   | Verificador de Números              | [`dia04`](./dia04)        |
 | 05   | Operadores Lógicos                  | [`dia05`](./dia05)        |
+| 06   | Estruturas de Repetição(while)      | [`dia06`](./dia06)        |
+| 05   | Operadores Lógicos                  | [`dia05`](./dia05)        |
