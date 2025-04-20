@@ -24,9 +24,7 @@ public class EstruturaRepeticao{
         inputN = scanner.nextInt();
 
         if(inputN==0){
-            System.out.printf("O fatorial %d! tem valor de 1 \n", inputN);
-            scanner.close();
-            return;  
+            System.out.printf("O fatorial %d! tem valor de 1 \n", inputN); 
         }
         else
 
