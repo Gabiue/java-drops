@@ -4,10 +4,10 @@ package model;
 public class Task{
     private int id; 
     private String descricao;
-    private String prioridade;
+    private Prioridade prioridade;
     private boolean concluida;
     
-    public Task(int id, String descricao, String prioridade ){
+    public Task(int id, String descricao, Prioridade prioridade ){
         this.id = id;
         this.descricao = descricao;
         this.prioridade = prioridade;
@@ -22,7 +22,7 @@ public class Task{
         
     }
     
-    public String getPrioridade(){
+    public Prioridade getPrioridade(){
         return prioridade;
     }
     public boolean isConcluida(){
@@ -33,7 +33,7 @@ public class Task{
         this.descricao = descricao;
         
     }
-    public void setPrioridade(String prioridade){
+    public void setPrioridade(Prioridade prioridade){
         this.prioridade = prioridade;
     }
     public void setConcluida(boolean concluida){
