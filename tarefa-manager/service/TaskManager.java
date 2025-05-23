@@ -3,6 +3,7 @@ package service;
 import model.Task;
 import java.util.ArrayList;
 import java.util.List;
+import model.Prioridade;
 
 public class TaskManager {
     
@@ -13,12 +14,12 @@ public class TaskManager {
         this.tarefas = new ArrayList<>();
         this.proximoId = 1;
     }
-    public void adicionarTarefa(String descricao, String prioridade){
+    public void adicionarTarefa(String descricao, Prioridade prioridade){
         Task nova = new Task(proximoId++, descricao, prioridade);
         tarefas.add(nova);
         System.out.println("Tarefa adicionada com sucesso!");
     }
-    public void ListarTarefa(){
+    public void listarTarefas(){
         if(tarefas.isEmpty()){
             System.out.println("nenhum registro encontrado");
         } else {

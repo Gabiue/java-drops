@@ -16,7 +16,7 @@ public enum Prioridade {
             case MEDIA -> "Média";
             case BAIXA -> "Baixa";
             
-        }
+        };
     }
     
 }
