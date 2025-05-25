@@ -21,6 +21,7 @@ Este projeto é parte da minha jornada de aprendizado contínuo e disciplinado, 
 Os arquivos estão organizados em pastas nomeadas como `diaXX`, onde `XX` representa o número do dia de prática.  
 Cada pasta contém um arquivo `.java` com o exercício do dia.
 
+
 ---
 
 ## 🧠 Progresso Diário
