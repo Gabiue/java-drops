@@ -33,7 +33,9 @@ public class Product {
     }
 
     public void setPrice(double price){
-        this.price = price;
+        if(price>= 0 ){
+            this.price = price;
+        }
     }
 
     public int getQuantity(){
@@ -46,7 +48,7 @@ public class Product {
 
     @Override
     public String toString(){
-        return String.format("Id: %d | Name: %s | Price: R$%.2f | Quantity = %d", id, name, price, quantity);
+        return String.format("Id: %d | Name: %s | Price: R$%.2f | Quantity: %d", id, name, price, quantity);
     }
 
 }
