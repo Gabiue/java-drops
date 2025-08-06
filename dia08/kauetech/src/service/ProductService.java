@@ -50,7 +50,6 @@ public class ProductService {
                 return;
             }
         }
-        System.out.println("Produto com ID" +id+ "Não encontrado");
     }
 
     public void removeProduct(int id ){
