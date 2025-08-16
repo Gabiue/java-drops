@@ -109,3 +109,4 @@ public class SlotMachine {
         System.out.flush();
     }
 }
+

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/PIN-break/PIN-break.iml" filepath="$PROJECT_DIR$/PIN-break/PIN-break.iml" />
       <module fileurl="file://$PROJECT_DIR$/dia08/dia08.iml" filepath="$PROJECT_DIR$/dia08/dia08.iml" />
       <module fileurl="file://$PROJECT_DIR$/dia09/dia09.iml" filepath="$PROJECT_DIR$/dia09/dia09.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-drops.iml" filepath="$PROJECT_DIR$/java-drops.iml" />
