@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/javaFundamentusDanielSouza/Avaliacao2/Avaliacao2.iml" filepath="$PROJECT_DIR$/javaFundamentusDanielSouza/Avaliacao2/Avaliacao2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javaFundamentusDanielSouza/JavaBasicsDanielSouza.iml" filepath="$PROJECT_DIR$/javaFundamentusDanielSouza/JavaBasicsDanielSouza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasicsDanielSouza/Avaliacao2/Avaliacao2.iml" filepath="$PROJECT_DIR$/JavaBasicsDanielSouza/Avaliacao2/Avaliacao2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasicsDanielSouza/JavaBasicsDanielSouza.iml" filepath="$PROJECT_DIR$/JavaBasicsDanielSouza/JavaBasicsDanielSouza.iml" />
       <module fileurl="file://$PROJECT_DIR$/password-attack-methods/PIN-break/PIN-break.iml" filepath="$PROJECT_DIR$/password-attack-methods/PIN-break/PIN-break.iml" />
       <module fileurl="file://$PROJECT_DIR$/password-attack-methods/Smart-PIN-Break/Smart-PIN-Break.iml" filepath="$PROJECT_DIR$/password-attack-methods/Smart-PIN-Break/Smart-PIN-Break.iml" />
       <module fileurl="file://$PROJECT_DIR$/dia08/dia08.iml" filepath="$PROJECT_DIR$/dia08/dia08.iml" />
